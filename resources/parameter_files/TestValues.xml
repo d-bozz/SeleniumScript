@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestValues>
+	<Login>
+		<login>damian.boz</login>
+		<password>damian.boz</password>
+	</Login>
+	<Tiempo>
+		<proyecto>TATF-202205</proyecto>
+		<inicio>1:00</inicio>
+		<fin>5:00</fin>
+		<duracion>4:00</duracion>
+		<nota>notita</nota>
+		<week_total>4:00</week_total>
+		<day_total>4:00</day_total>
+	</Tiempo>
+	<ReportResult>
+		<user>damian.boz</user>
+		<project>TATF-202205</project>
+		<start>1:00</start>
+		<finish>5:00</finish>
+		<duration>4:00</duration>
+		<note>notita</note>
+		<total>4:00</total>
+	</ReportResult>
+	<Proyecto>
+		<nombre1>IATF-202205</nombre1>
+		<description1></description1>
+		<nombre2>TATF-202205</nombre2>
+		<description2></description2>
+	</Proyecto>
+	<Usuario>
+		<nombre>RICARDO DAMIAN BOZ VITABAR</nombre>	
+		<login>damian.boz</login>
+		<rol>User</rol>
+	</Usuario>
+	<DeleteHoras>
+		<proyecto>TATF-202205</proyecto>
+		<week_total>0:00</week_total>
+		<day_total>0:00</day_total>
+	</DeleteHoras>
+</TestValues>

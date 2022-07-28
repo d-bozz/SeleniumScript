@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dboz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dboz\\.nuget\\packages"
+    ]
+  }
+}

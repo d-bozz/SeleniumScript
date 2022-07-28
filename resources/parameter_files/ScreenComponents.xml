@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScreenComponents>
+	<Login>
+		<page_title>Time Tracker - Login</page_title>
+		<title>Login</title>
+		<login>login</login>
+		<password>password</password>
+		<btn_login>btn_login</btn_login>
+	</Login>
+	<Time>
+		<page_title>Time Tracker - Tiempo</page_title>
+		<title>Tiempo</title>
+		<login>login</login>
+		<user>user</user>
+		<project>project</project>
+		<start>start</start>
+		<finish>finish</finish>
+		<duration>duration</duration>
+		<note>note</note>
+		<btn_submit>btn_submit</btn_submit>
+	</Time>
+	<Report>
+		<page_title>Time Tracker - Reportes</page_title>
+		<title>Reportes</title>
+		<start_date>start_date</start_date>
+		<end_date>end_date</end_date>
+		<users>Seleccionar todos</users>
+		<project>project</project>
+		<duration>duration</duration>
+		<nota>note</nota>
+		<user>manager_name</user>
+		<btn_generate>btn_generate</btn_generate>
+	</Report>
+	<Project>
+		<page_title>Time Tracker - Proyectos</page_title>
+		<title>Projectos</title>
+		<project_title>Time Tracker - Proyectos</project_title>
+		<project_name>project_name</project_name>
+		<project_desc>project_desc</project_desc>
+	</Project>
+	<User>
+		<page_title>Time Tracker - Personas</page_title>
+		<title>Personas</title>
+		<username>username</username>
+		<loginName>loginName</loginName>
+		<rol>rol</rol>
+	</User>
+	<Delete_time>
+		<page_title>Eliminando el historial de tiempo</page_title>
+		<title>Tiempo</title>
+		<delete_button>delete_button</delete_button>
+		<week_total>Week total: 0:00</week_total>
+		<day_total>Day total: 0:00</day_total>
+	</Delete_time>
+</ScreenComponents>

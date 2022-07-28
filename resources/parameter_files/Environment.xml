@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+	<!--chrome, Firefox, Ie-->
+	<Browser>firefox</Browser>
+	<UrlEnvironment>https://timetracker.cursos.ces.com.uy/login.php</UrlEnvironment>
+
+	<!--Extent Report-->
+	<!--Si PathReportHtml esta en blanco por defecto queda guardado en PlataformaModelo/reportHTML-->
+	<PathReportHtml></PathReportHtml>
+	<Theme>1</Theme>
+	<DocumentTitle>Plataforma modelo</DocumentTitle>
+	<ReportName>Plataforma modelo</ReportName>
+	<Encoding>utf-8</Encoding>
+
+	<!--Excel-->
+	<PathExcel>..\..\..\resources\parameter_files\excel_externo.xlsx</PathExcel>
+	<!--Created Excel-->
+	<!--Si PathCreatedExcel esta en blanco por defecto queda guardado en PlataformaModelo/reportExcel-->
+	<PathCreatedExcel></PathCreatedExcel>
+	<CreatedExcelName>result.xlsx</CreatedExcelName>
+	<CreateHeader>columna 1,columna 2,columna 3,columna 4</CreateHeader>
+</Environment>
