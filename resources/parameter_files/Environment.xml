@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Environment>
-	<!--chrome, Firefox, Ie-->
-	<Browser>firefox</Browser>
+	<!--chrome, Edge, Firefox-->
+	<Browser>edge</Browser>
 	<UrlEnvironment>https://timetracker.cursos.ces.com.uy/login.php</UrlEnvironment>
 
 	<!--Extent Report-->

@@ -29,7 +29,8 @@ namespace plataforma_automatizada.utils
             options3.AddArguments("start-maximized");
             new DriverManager().SetUpDriver(new ChromeConfig(), VersionResolveStrategy.MatchingBrowser);
             new DriverManager().SetUpDriver(new EdgeConfig(), VersionResolveStrategy.MatchingBrowser);
-            new DriverManager().SetUpDriver(new FirefoxConfig(), VersionResolveStrategy.MatchingBrowser);
+            new DriverManager().SetUpDriver(new FirefoxConfig());
+
             IWebDriver driverRetorno;
 
             switch (browser)

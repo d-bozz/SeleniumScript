@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dboz\\source\\repos\\SeleniumScript3\\plataforma-automatizada.csproj": {}
+    "C:\\Users\\damian.boz\\Source\\Repos\\SeleniumScript3\\plataforma-automatizada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dboz\\source\\repos\\SeleniumScript3\\plataforma-automatizada.csproj": {
+    "C:\\Users\\damian.boz\\Source\\Repos\\SeleniumScript3\\plataforma-automatizada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dboz\\source\\repos\\SeleniumScript3\\plataforma-automatizada.csproj",
+        "projectUniqueName": "C:\\Users\\damian.boz\\Source\\Repos\\SeleniumScript3\\plataforma-automatizada.csproj",
         "projectName": "plataforma-automatizada",
-        "projectPath": "C:\\Users\\dboz\\source\\repos\\SeleniumScript3\\plataforma-automatizada.csproj",
-        "packagesPath": "C:\\Users\\dboz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dboz\\source\\repos\\SeleniumScript3\\obj\\",
+        "projectPath": "C:\\Users\\damian.boz\\Source\\Repos\\SeleniumScript3\\plataforma-automatizada.csproj",
+        "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\damian.boz\\Source\\Repos\\SeleniumScript3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dboz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\damian.boz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

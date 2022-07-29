@@ -22,4 +22,9 @@
     <PackageReference Include="WebDriverManager" Version="2.14.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="reportExcel\" />
+    <Folder Include="reportHTML\" />
+  </ItemGroup>
+
 </Project>
