@@ -44,6 +44,5 @@ namespace plataforma_automatizada.test
             Assert.That(timePage.ValidarWeekTotal, Is.EqualTo("Week total: " + week_total + ""));
             Assert.That(timePage.ValidarDayTotal, Is.EqualTo("Day total: " + day_total + ""));
         }
-
     }
 }

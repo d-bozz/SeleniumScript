@@ -34,5 +34,3 @@ namespace plataforma_automatizada.test
         }
     }
 }
-
-
